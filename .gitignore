@@ -1,0 +1,21 @@
+# Built output
+/build/
+app/build/
+
+# Gradle cache
+.gradle/
+
+# Android SDK local path (machine-specific, do not commit)
+local.properties
+
+# IDE files
+.idea/
+*.iml
+*.iws
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Claude internal files
+.claude/

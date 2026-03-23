@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Warm white background — easier on eyes than pure white -->
+    <color name="background">#FFFDF0</color>
+
+    <!-- Text colors -->
+    <color name="textPrimary">#1A1A2E</color>
+    <color name="textSecondary">#555577</color>
+
+    <!-- Speech bubble -->
+    <color name="speechBubble">#1A1A2E</color>
+    <color name="speechBubbleText">#FFFFFF</color>
+
+    <!-- Accent / interactive -->
+    <color name="accent">#4A90E2</color>
+    <color name="accentDark">#2E6BB5</color>
+
+    <!-- Mic states -->
+    <color name="micIdle">#9E9E9E</color>
+    <color name="micListening">#4A90E2</color>
+    <color name="micError">#E53935</color>
+    <color name="micText">#FFFFFF</color>
+
+    <!-- Success -->
+    <color name="success">#27AE60</color>
+
+    <!-- Error -->
+    <color name="error">#E53935</color>
+
+    <!-- Card text (shows on colorful card backgrounds) -->
+    <color name="cardText">#1A1A2E</color>
+
+    <!-- Divider -->
+    <color name="divider">#DDDDDD</color>
+
+    <!-- Material theme colors -->
+    <color name="colorPrimary">#4A90E2</color>
+    <color name="colorPrimaryVariant">#2E6BB5</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorSecondary">#27AE60</color>
+    <color name="colorOnSecondary">#FFFFFF</color>
+    <color name="colorSurface">#FFFDF0</color>
+    <color name="colorOnSurface">#1A1A2E</color>
+    <color name="colorBackground">#FFFDF0</color>
+    <color name="colorOnBackground">#1A1A2E</color>
+    <color name="colorError">#E53935</color>
+    <color name="colorOnError">#FFFFFF</color>
+</resources>

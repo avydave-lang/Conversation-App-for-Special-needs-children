@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ConvApp</string>
+    <string name="app_name_display">Let\'s Practice Talking! 🗣️</string>
+    <string name="choose_story">Choose a story to practice:</string>
+    <string name="total_stars">⭐ %d stars earned</string>
+    <string name="step_counter">Act %1$d of %2$d</string>
+
+    <!-- Mic button states -->
+    <string name="tap_to_talk">🎤 Tap to Talk</string>
+    <string name="listening">🎙️ Listening…</string>
+    <string name="processing">⏳ Thinking…</string>
+    <string name="mic_unavailable">Mic unavailable</string>
+    <string name="mic_permission_denied">Please allow microphone access in Settings.</string>
+
+    <!-- Hints -->
+    <string name="hint_button">💡 Hint</string>
+    <string name="heard_prefix">I heard: "%s"</string>
+
+    <!-- Results screen -->
+    <string name="great_job">🎉 Great Job! 🎉</string>
+    <string name="earned_star">You earned a star!</string>
+    <string name="play_again">🔁 Play Again</string>
+    <string name="home">🏠 Home</string>
+
+    <!-- Settings -->
+    <string name="settings_title">⚙️ Settings (for grown-ups)</string>
+    <string name="speech_rate_label">Speaking speed: %s</string>
+    <string name="speech_rate_default_label">Speaking speed: Normal</string>
+    <string name="rate_slow">Slow</string>
+    <string name="rate_normal">Normal</string>
+    <string name="rate_fast">Fast</string>
+    <string name="auto_mic_label">Auto-open mic after speaking</string>
+    <string name="high_contrast_label">High contrast mode</string>
+    <string name="font_size_label">Text size:</string>
+    <string name="font_normal">Normal</string>
+    <string name="font_large">Large</string>
+    <string name="font_xl">XL</string>
+    <string name="save_settings">Save Settings</string>
+    <string name="reset_progress">Reset All Progress</string>
+    <string name="reset_confirm_message">This will clear all stars and completion status. Are you sure?</string>
+    <string name="reset_final_message">Last chance! This cannot be undone.</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+</resources>
